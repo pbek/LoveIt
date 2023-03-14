@@ -593,3 +593,10 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# PGP
+pgp:
+  Weight: 101
+  Title: PGP Key
+  Icon:
+    Class: fas fa-key fa-fw
